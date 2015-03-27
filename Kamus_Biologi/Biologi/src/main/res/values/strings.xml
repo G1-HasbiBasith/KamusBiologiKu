@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kamus_Biologi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnKembaliLihat">← Kembali</string>
+    <string name="btnLoginC">LOGIN</string>
+    <string name="btnRegisterC">REGISTER</string>
+    <string name="btnCancelC">CANCEL</string>
+
+</resources>
